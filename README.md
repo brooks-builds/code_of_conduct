@@ -20,7 +20,7 @@ No violation is too small to let me know about. I want to keep this community he
 
 ## Timeout offenses
 
-A timeout on [Twitch](https://www.twitch.tv/brookzerker) chat is a short timeout (around 5 minutes) where the messages that caused the timeout will be deleted as well as preventing the receiver of the timeout to not be able to send messages for the duration of the timout. The followign actions can cause a chat timeout.
+A timeout on [Twitch](https://www.twitch.tv/brookzerker) chat is a short timeout (around 5 minutes) where the messages that caused the timeout will be deleted as well as preventing the receiver of the timeout to not be able to send messages for the duration of the timout. The following actions can cause a chat timeout.
 
 * Posting a message about a topic after being asked repeatedly to not post said topic
 * Advertising in chat without permission
@@ -44,7 +44,7 @@ Sometimes a timeout isn't enough and a ban is required. A ban is where a specifi
 
 This is community focused around learning and constantly improving ourselves. It is near impossible to do this without allowing ourselves the freedom to fail publicly. Brooks models this failing during his streams and all members of the community are encouraged to join in.
 
-Only though risking failure can we learn how not to fail.
+Only through risking failure can we learn how not to fail.
 
 ## Growth mindset
 
