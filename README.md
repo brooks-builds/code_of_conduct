@@ -1,5 +1,7 @@
 # Brooks Builds Code of Conduct
 
+[Video introduction of the Code of Conduct](https://youtu.be/BSndKcdn9Bs)
+
 This Code of Conduct applies to the greater community around Brooks Builds. This includes
 
 * All GitHub projects within the [Brooks-Builds](https://github.com/brooks-builds) organization
